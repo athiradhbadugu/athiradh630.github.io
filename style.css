@@ -1,0 +1,36 @@
+body {
+    background: cyan;
+}
+
+h1 {
+    color: red;
+    font-size: 36px;
+}
+
+p {
+    color: grey;
+}
+
+ul {
+    color: brown;
+}
+
+a {
+    font-size: 32px;
+    text-decoration: underline;
+}
+
+#heading1 {
+    color: coral;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.button {
+    background-color: darkgreen;
+    padding: 10px 20px;
+    border-radius: 4px;
+    color: white;
+}
